@@ -1,8 +1,12 @@
-# Jekyll Modern Blog
+# Community Actions Site
 
-A Simple, Clean and responsive modern blog for jekyll.
+This repo is the website for community actions.
 
-## [Live Demo](http://inded.github.io/Jekyll_modern-blog/)
+Community Actions is a group of developers and collaborators Looking to solve city and community issues with existing technologies. These technologies often are not known or not understood enough to implement. Additionally the cost of hiring a developer to create a custom technology may not be in the budget.
+
+
+
+This site is using a Jekyll repo that was forked. See attributions below.
 
 ## Attributions
 Based off of this [article from Codrops](http://tympanus.net/codrops/?p=24222)
